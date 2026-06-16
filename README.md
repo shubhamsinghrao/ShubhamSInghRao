@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Shubham Singh Rao 👋
 ### About Me
+Analytics & BI Lead | ❄️ Snowflake 4× Certified | Microsoft Certified: Power BI Data Analyst | Sigma Delivery Partner Certified | SQL, Sigma, Power BI,Tableau,Python | Scalable BI Architecture & Data Modeling
 📚 I'm currently learning Data Science and exploring the fascinating world of data analysis, data visualization, and technology.
 💼 I'm passionate about becoming a Data Scientist and Data Analyst.
 🌐 I'm always eager to collaborate on exciting data-related projects or discuss technology and data science topics.
